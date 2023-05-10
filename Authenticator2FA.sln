@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator2FA", "Authenticator2FA\Authenticator2FA.csproj", "{14091D00-ADF8-4D51-A76E-98BB1B858E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14091D00-ADF8-4D51-A76E-98BB1B858E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14091D00-ADF8-4D51-A76E-98BB1B858E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14091D00-ADF8-4D51-A76E-98BB1B858E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14091D00-ADF8-4D51-A76E-98BB1B858E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9501D99C-7690-4701-A35E-014B66DEC109}
+	EndGlobalSection
+EndGlobal
